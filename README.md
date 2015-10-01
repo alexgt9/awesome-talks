@@ -44,7 +44,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Software Design
 
 * [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
-* [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
+* ~~[DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]~~
 * [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [54:43]
 * [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** [54:40]
 * [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan** [1:11:09]
@@ -52,7 +52,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland** [45:19]
 * [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard** [1:03:03]
 * [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski** [42:34]
-* [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** [1:00:18]
+* ~~[How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** [1:00:18]~~
 * [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** [1:02:30]
 * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
